@@ -1,0 +1,11 @@
+h3 {
+    color: rgb(10, 10, 231);
+}
+
+app-server {
+    color: red;
+}
+
+app-servers {
+    color: green;
+}
