@@ -9,3 +9,7 @@ app-server {
 app-servers {
     color: green;
 }
+
+label {
+    color: rgb(59, 3, 3);
+}
